@@ -13,13 +13,13 @@ return [
     |
     */
 
-    'accepted'             => ':attribute deve ser aceito.',
-    'active_url'           => ':attribute não é uma URL válida.',
+    'accepted'             => ':attribute deve ser aceite.',
+    'active_url'           => ':attribute não é um URL válido.',
     'after'                => ':attribute deve ser uma data depois de :date.',
-    'after_or_equal'       => ':attribute deve ser uma data posterior ou igual a:date.',
-    'alpha'                => ':attribute deve conter somente letras.',
+    'after_or_equal'       => ':attribute deve ser uma data posterior ou igual a :date.',
+    'alpha'                => ':attribute deve conter apenas letras.',
     'alpha_dash'           => ':attribute deve conter letras, números e traços.',
-    'alpha_num'            => ':attribute deve conter somente letras e números.',
+    'alpha_num'            => ':attribute deve conter apenas letras e números.',
     'array'                => ':attribute deve ser um array.',
     'before'               => ':attribute deve ser uma data antes de :date.',
     'between'              => [
@@ -29,7 +29,7 @@ return [
         'array'   => ':attribute deve ter entre :min e :max itens.',
     ],
     'boolean'              => ':attribute deve ser verdadeiro ou falso.',
-    'confirmed'            => 'A confirmação de :attribute não confere.',
+    'confirmed'            => 'A confirmação de :attribute não é válida.',
     'date'                 => ':attribute não é uma data válida.',
     'date_format'          => ':attribute não confere com o formato :format.',
     'different'            => ':attribute e :other devem ser diferentes.',
