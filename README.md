@@ -8,7 +8,7 @@ https://github.com/leandroluk/laravel-5.3-pt-br-localization
 1. Clonar este projeto para uma pasta dentro de `resources/lang/`
   ```
   $ cd resources/lang/
-  $ git clone https://github.com/rpsimao/laravel-5.3-pt-pt-localization ./pt
+  $ git clone https://github.com/rpsimao/laravel-5.3-pt-localization ./pt
   ```
   
   Pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
