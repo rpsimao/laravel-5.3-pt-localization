@@ -1,24 +1,24 @@
-# Arquivos de linguagem do Laravel 5.3 - Português do Brasil
+# Arquivos de linguagem  Laravel - Português
 
-Essa tradução foi atualizada a partir do conteúdo disponibilizado por felipeporto neste link:
-https://github.com/felipeporto/laravel-5.2-pt-br-localization.git
+Essa tradução foi atualizada a partir de:
+https://github.com/leandroluk/laravel-5.3-pt-br-localization
 
 ## Instalação
 
 1. Clonar este projeto para uma pasta dentro de `resources/lang/`
   ```
   $ cd resources/lang/
-  $ git clone https://github.com/leandroluk/laravel-5.3-pt-br-localization.git ./pt-br
+  $ git clone https://github.com/rpsimao/laravel-5.3-pt-pt-localization ./pt
   ```
   
-  Você pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
+  Pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
 
   ```
-  $ rm -r pt-br/.git/
+  $ rm -r pt/.git/
   ```
   
-2. Configurar o Framework para utilizar a linguagem como Default
+2. Configurar para utilizar a linguagem como Default
   ```
   // Linha 68 do arquivo config/app.php
-  'locale' => 'pt-br',
+  'locale' => 'pt',
   ```
